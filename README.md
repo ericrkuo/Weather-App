@@ -9,10 +9,10 @@ I was motivated by Samsungs weather widget and I wanted to implement my own weat
 ## Tech/framework used
 <b>Built with</b>
 - JavaFX Software Platform
-- .[GeoDB Cities API](http://geodb-cities-api.wirefreethought.com/)
-- .[SendGrid API](https://sendgrid.com/)
-- .[WeatherBit API](https://www.weatherbit.io/)
-- .[ControlsFX API](http://fxexperience.com/controlsfx/features/)
+- [GeoDB Cities API](http://geodb-cities-api.wirefreethought.com/)
+- [SendGrid API](https://sendgrid.com/)
+- [WeatherBit API](https://www.weatherbit.io/)
+- [ControlsFX API](http://fxexperience.com/controlsfx/features/)
 - JSon/Gson
 
 ## Features
