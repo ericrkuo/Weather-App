@@ -1,0 +1,5 @@
+[{"id":8668,"type":"CITY","city":"São Paulo","name":"São Paulo","country":"Brazil","countryCode":"BR","region":"São Paulo","regionCode":"SP","latitude":-23.5475,"longitude":-46.63611},
+{"id":10841,"type":"CITY","city":"Vancouver","name":"Vancouver","country":"Canada","countryCode":"CA","region":"British Columbia","regionCode":"BC","latitude":49.24966,"longitude":-123.11934},
+{"id":49473,"type":"CITY","city":"Guatemala City","name":"Guatemala City","country":"Guatemala","countryCode":"GT","region":"Guatemala Department","regionCode":"GU","latitude":14.64072,"longitude":-90.51327},
+{"id":9997,"type":"CITY","city":"Richmond","name":"Richmond","country":"Canada","countryCode":"CA","region":"British Columbia","regionCode":"BC","latitude":49.17003,"longitude":-123.13683},
+{"id":31871,"type":"CITY","city":"A Coruña","name":"A Coruña","country":"Spain","countryCode":"ES","region":"Galicia","regionCode":"GA","latitude":43.37135,"longitude":-8.396}]

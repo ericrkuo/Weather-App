@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sendgrid-java">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/WeatherAppJars/sendgrid-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/WeatherAppJars/sendgrid-java.jar!/" />
+    </SOURCES>
+  </library>
+</component>
