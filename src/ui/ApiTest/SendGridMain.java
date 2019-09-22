@@ -60,8 +60,7 @@ public class SendGridMain {
         Content content = new Content("text/html", "<html>"+emailContent+"</html>");
         Mail mail = new Mail(from, subject, to, content);
 
-        //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
-        SendGrid sg = new SendGrid("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");
+        SendGrid sg = new SendGrid("YOUR API KEY");
         Request request = new Request();
         try {
             request.setMethod(Method.POST);

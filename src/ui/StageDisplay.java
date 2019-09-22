@@ -966,7 +966,7 @@ public class StageDisplay extends Application {
     private Data getWeatherDataWithLonLat(Double latitude, Double longitude) {
         Data data = null;
         try {
-            String apikey = "bceeb7cc0b1f48749deb6c60773fed72";
+            String apikey = "YOUR API KEY";
             String coordinates = "lat=" + latitude + "&lon=" + longitude;
             String weatherquery = "https://api.weatherbit.io/v2.0/current?" + coordinates + "&units=M&key=";
             String theURL = weatherquery + apikey;
@@ -1060,7 +1060,7 @@ public class StageDisplay extends Application {
     }
 
     private ForecastData getForecastDataWithLonLat(Double longitude, Double latitude) {
-        String apikey = "bceeb7cc0b1f48749deb6c60773fed72";
+        String apikey = "YOUR API KEY";
 
         String coordinates = "lat=" + latitude + "&lon=" + longitude;
         String weatherquery = "https://api.weatherbit.io/v2.0/forecast/daily?" + coordinates + "&days=16&units=M&key=";

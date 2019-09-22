@@ -15,7 +15,7 @@ public class WeatherbitMain {
 
     public static void main(String[] args) {
 
-        String apikey = "bceeb7cc0b1f48749deb6c60773fed72";
+        String apikey = "YOUR API KEY";
         String city = "Richmond,CA";
         String weatherquery = "https://api.weatherbit.io/v2.0/current?city=" + city + "&units=M&key=";
 

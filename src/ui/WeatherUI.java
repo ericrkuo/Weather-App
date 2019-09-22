@@ -123,7 +123,7 @@ public class WeatherUI {
     }
 
     private void displayWeatherInfo(Double latitude, Double longitude) {
-        String apikey = "bceeb7cc0b1f48749deb6c60773fed72";
+        String apikey = "YOUR API KEY";
         String coordinates = "lat=" + latitude + "&lon=" + longitude;
         String weatherquery = "https://api.weatherbit.io/v2.0/current?" + coordinates + "&units=M&key=";
 
